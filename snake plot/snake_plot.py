@@ -13,7 +13,7 @@ from pptx.util import Inches
 
 # Step 1: Create dummy data for the Snake Plot
 data = {
-    "Category": ["A", "B", "C", "D", "E"],
+    "Category": ["coke", "pepsi", "sprite", "mirinda", "mango"],
     "Series1": [5, 7, 9, 6, 8],  # Values for the first line
     "Series2": [6, 5, 7, 9, 6]   # Values for the second line
 }
